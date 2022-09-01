@@ -1,0 +1,902 @@
+[
+    {
+        "name": "IIT, Bangalore",
+        "yearFounded": 1903,
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Mumbai",
+        "yearFounded": 1900,
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Pune",
+        "yearFounded": 1975,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Kolkata",
+        "yearFounded": 1901,
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Chennai",
+        "yearFounded": 1946,
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Hyderabad",
+        "yearFounded": 1983,
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Patna",
+        "yearFounded": 1994,
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Darbhanga",
+        "yearFounded": 1928,
+        "city": "Darbhanga",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Munger",
+        "yearFounded": 1912,
+        "city": "Munger",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Bhopal",
+        "yearFounded": 1958,
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Allahabad",
+        "yearFounded": 1918,
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Kanpur",
+        "yearFounded": 1926,
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Varanasi",
+        "yearFounded": 1946,
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, jaipur",
+        "yearFounded": 1936,
+        "city": "jaipur",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Bikaner",
+        "yearFounded": 1916,
+        "city": "Bikaner",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Ajmer",
+        "yearFounded": 1961,
+        "city": "Ajmer",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Chandigarh",
+        "yearFounded": 1954,
+        "city": "Chandigarh",
+        "state": "Haryana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Panji",
+        "yearFounded": 1928,
+        "city": "Panji",
+        "state": "Goa",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Raipur",
+        "yearFounded": 1981,
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, New Delhi",
+        "yearFounded": 1991,
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIT, Bangalore",
+        "yearFounded": 1930,
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Mumbai",
+        "yearFounded": 1963,
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Pune",
+        "yearFounded": 1940,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Kolkata",
+        "yearFounded": 1939,
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Chennai",
+        "yearFounded": 1963,
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Hyderabad",
+        "yearFounded": 1905,
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Patna",
+        "yearFounded": 1985,
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Darbhanga",
+        "yearFounded": 1922,
+        "city": "Darbhanga",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Munger",
+        "yearFounded": 1923,
+        "city": "Munger",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Bhopal",
+        "yearFounded": 1964,
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Allahabad",
+        "yearFounded": 1995,
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Kanpur",
+        "yearFounded": 1970,
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Varanasi",
+        "yearFounded": 1987,
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, jaipur",
+        "yearFounded": 1982,
+        "city": "jaipur",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Bikaner",
+        "yearFounded": 1968,
+        "city": "Bikaner",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Ajmer",
+        "yearFounded": 1938,
+        "city": "Ajmer",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Chandigarh",
+        "yearFounded": 1966,
+        "city": "Chandigarh",
+        "state": "Haryana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Panji",
+        "yearFounded": 1963,
+        "city": "Panji",
+        "state": "Goa",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, Raipur",
+        "yearFounded": 1919,
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIIT, New Delhi",
+        "yearFounded": 1986,
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Bangalore",
+        "yearFounded": 1905,
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Mumbai",
+        "yearFounded": 1939,
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Pune",
+        "yearFounded": 1966,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Kolkata",
+        "yearFounded": 1958,
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Chennai",
+        "yearFounded": 1921,
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Hyderabad",
+        "yearFounded": 1905,
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Patna",
+        "yearFounded": 1945,
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Darbhanga",
+        "yearFounded": 1961,
+        "city": "Darbhanga",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Munger",
+        "yearFounded": 1941,
+        "city": "Munger",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Bhopal",
+        "yearFounded": 1902,
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Allahabad",
+        "yearFounded": 1950,
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Kanpur",
+        "yearFounded": 1951,
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Varanasi",
+        "yearFounded": 1940,
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, jaipur",
+        "yearFounded": 1916,
+        "city": "jaipur",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Bikaner",
+        "yearFounded": 1903,
+        "city": "Bikaner",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Ajmer",
+        "yearFounded": 1906,
+        "city": "Ajmer",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Chandigarh",
+        "yearFounded": 1962,
+        "city": "Chandigarh",
+        "state": "Haryana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Panji",
+        "yearFounded": 1966,
+        "city": "Panji",
+        "state": "Goa",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, Raipur",
+        "yearFounded": 1948,
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "NIT, New Delhi",
+        "yearFounded": 1947,
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Bangalore",      
+        "yearFounded": 1939,
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Mumbai",
+        "yearFounded": 1915,
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Pune",
+        "yearFounded": 1948,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Kolkata",        
+        "yearFounded": 1912,
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Chennai",        
+        "yearFounded": 1900,
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Hyderabad",      
+        "yearFounded": 1918,
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Patna",
+        "yearFounded": 1943,
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Darbhanga",      
+        "yearFounded": 1934,
+        "city": "Darbhanga",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Munger",
+        "yearFounded": 1907,
+        "city": "Munger",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Bhopal",
+        "yearFounded": 1997,
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Allahabad",      
+        "yearFounded": 1999,
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Kanpur",
+        "yearFounded": 1905,
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Varanasi",       
+        "yearFounded": 1955,
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, jaipur",
+        "yearFounded": 1945,
+        "city": "jaipur",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Bikaner",        
+        "yearFounded": 1915,
+        "city": "Bikaner",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Ajmer",
+        "yearFounded": 1916,
+        "city": "Ajmer",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Chandigarh",     
+        "yearFounded": 1937,
+        "city": "Chandigarh",
+        "state": "Haryana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Panji",
+        "yearFounded": 1961,
+        "city": "Panji",
+        "state": "Goa",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, Raipur",
+        "yearFounded": 1928,
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "Government Engineering College, New Delhi",      
+        "yearFounded": 1923,
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "Management", "Business" ]
+      } ,
+      {
+        "name": "IIM, Bangalore",
+        "yearFounded": 1911,
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Mumbai",
+        "yearFounded": 1923,
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Pune",
+        "yearFounded": 1985,
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Kolkata",
+        "yearFounded": 1959,
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Chennai",
+        "yearFounded": 1904,
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Hyderabad",
+        "yearFounded": 1968,
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Patna",
+        "yearFounded": 1902,
+        "city": "Patna",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Darbhanga",
+        "yearFounded": 1992,
+        "city": "Darbhanga",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Munger",
+        "yearFounded": 1902,
+        "city": "Munger",
+        "state": "Bihar",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Bhopal",
+        "yearFounded": 1956,
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Allahabad",
+        "yearFounded": 1958,
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Kanpur",
+        "yearFounded": 1938,
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Varanasi",
+        "yearFounded": 1970,
+        "city": "Varanasi",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, jaipur",
+        "yearFounded": 1901,
+        "city": "jaipur",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Bikaner",
+        "yearFounded": 1908,
+        "city": "Bikaner",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Ajmer",
+        "yearFounded": 1928,
+        "city": "Ajmer",
+        "state": "Rajashtan",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Chandigarh",
+        "yearFounded": 1966,
+        "city": "Chandigarh",
+        "state": "Haryana",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Panji",
+        "yearFounded": 1950,
+        "city": "Panji",
+        "state": "Goa",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, Raipur",
+        "yearFounded": 1959,
+        "city": "Raipur",
+        "state": "Chhattisgarh",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } ,
+      {
+        "name": "IIM, New Delhi",
+        "yearFounded": 1947,
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "numberOfStudents": 100,
+        "courses": [ "CS", "IT", "ME", "ECE", "EEE" ]
+      } 
+]
